@@ -20,18 +20,21 @@ Bu proje, optik formları bilgisayarlı görü teknikleriyle analiz eden bir sis
     <img width="633" height="762" alt="image" src="https://github.com/user-attachments/assets/5c7d8ecb-2194-4347-bfbb-d8dd95842e28" />
 </div>
 
+
  [+]İlk Jupyter hücresini çalıştır. Bu hücre optik_kirpilmis_resimler adında bir klasör oluşturacak ve kırptığı optikleri koyacak
  
     Örn; 
 <div align="center">
  <img width="217" height="360" alt="bos_sinav_sayfa_1" src="https://github.com/user-attachments/assets/4f88e618-8a68-4bb0-be6f-f4705a6e16dd" />
 </div>
+
     
  [+]İkinci Jupyter hücresini çalıştırmadan belki düzenleme yapman gereken şeyler olabilir. Burada değerlendirme işlemini yapacak ve exceli üretecek. Şu anda doğru cevaplar bir dizi içinde tutuluyor burayı istediğin gibi düzenleyebilirsin. Değerlendirme şuan toplam 20 şıklı sorular için. Soru adedi, şekli sonra geliştirilecek. 
  
  [+] num_colum ve answer_columlar hangi kutucuklar boyalıysa neyle eşleştireceğini belirtiyor. 
  
  [+] İkinci Jupyter hücresini çalıştırdığında karşına 3 defa pencere gelecek, ilgili alanı doğru seçmen gerekiyor sadece optik alanlar seçilmeli; İlk numara, sonra sol alt cevap ve sağ alt cevap sırasıyla seçilmeli. Fareyle seçim yapıldıktan sonra ENTER tuşuna basılmalı. Bu pencereyi büyütüp küçültmende sorun yok
+
  
     Örneğin; 
 <div align="center">    
@@ -44,6 +47,8 @@ Bu proje, optik formları bilgisayarlı görü teknikleriyle analiz eden bir sis
     <img width="800" height="125" alt="image" src="https://github.com/user-attachments/assets/d646e9e7-bb36-4abb-a6a2-ed0d57161238" />
     <img width="800" height="105" alt="image" src="https://github.com/user-attachments/assets/40c095c8-901d-41d1-b204-abff2b10b037" />
   </div>
+
+  
  [+] 3. Jupyter exceli ise sana doğru işaretlemeyi puanlayabilmişmi onu gösteriyor, klasörde dogrulama_resimleri oluşacak oradaki resimlerde mavi ile çerçeveye alınmış olmalı. 
  
     Örnek;
