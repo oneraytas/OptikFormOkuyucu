@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pandas
+openpyxl
+pdf2image
+Pillow
+customtkinter
+matplotlib
