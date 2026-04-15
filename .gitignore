@@ -1,0 +1,16 @@
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+
+# Sanal ortam
+venv/
+.env
+
+# Proje çıktıları (Kişisel veri güvenliği için)
+optik_kirpilmis_resimler/
+dogrulama_resimleri/
+pdfler/
+Tum_Optik_Sonuclar.xlsx
+
+# PDF dosyaları (Eğer çok büyükse GitHub kabul etmeyebilir)
+*.pdf
